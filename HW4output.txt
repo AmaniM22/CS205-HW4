@@ -1,0 +1,31 @@
+Successfully added book to HashSet
+Successfully added book to HashSet
+Successfully added book to HashSet
+Successfully added book to HashSet
+Successfully added book to HashSet
+Book was not added to HashSet
+Successfully added book to HashSet
+Successfully added book to HashSet
+Successfully added book to HashSet
+Book was not added to HashSet
+Book was not added to HashSet
+Successfully added book to HashSet
+Successfully added book to HashSet
+Successfully added book to HashSet
+Successfully added book to HashSet
+Book [numberOfPages=439, price=19.99, title=Harry Potter and the Half-Blood Prince, type=ELECTRONIC]
+Book [numberOfPages=829, price=23.95, title=The Soloman Curse, type=HARDBACK]
+Book [numberOfPages=-9, price=19.99, title=Harry Potter and the Goblet of Fire, type=ELECTRONIC]
+Book [numberOfPages=546, price=-99.0, title=Harry Potter and the Prisoner of Azkaban, type=HARDBACK]
+Book [numberOfPages=156, price=39.99, title=And Then There Were None, type=HARDBACK]
+Book [numberOfPages=156, price=19.99, title=And Then There Were None, type=SOFTBACK]
+Book [numberOfPages=253, price=25.0, title=The Da Vinci Code, type=HARDBACK]
+Book [numberOfPages=320, price=16.2, title=American Sniper, type=HARDBACK]
+Book [numberOfPages=120, price=29.99, title=The Lord of the Rings, type=HARDBACK]
+Book [numberOfPages=212, price=32.5, title=The Hobbit, type=HARDBACK]
+Book [numberOfPages=92, price=22.99, title=, type=HARDBACK]
+Book [numberOfPages=391, price=23.87, title=The Girl on the Train, type=SOFTBACK]
+Book [numberOfPages=829, price=23.95, title=The Soloman Curse, type=HARDBACK]
+Exists in bookSet
+Book [numberOfPages=629, price=87.0, title=The BigBang Theory, type=HARDBACK]
+Does not exist in bookSet
